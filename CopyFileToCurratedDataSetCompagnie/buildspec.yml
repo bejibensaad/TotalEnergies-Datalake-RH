@@ -18,4 +18,3 @@ phases:
       - aws lambda update-function-code --function-name CopyFileToCurratedDataSetCompagnie --zip-file fileb://deployment_package.zip
       - echo "DONE!!"
 
-
