@@ -93,5 +93,5 @@ def lambda_handler(event, context):
         result['file_name'] = file_name
         result['application'] = application
         result['Status'] = status
-        return result
+        return result 
     
