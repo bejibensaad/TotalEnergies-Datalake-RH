@@ -22,8 +22,6 @@ import codecs
 #import botocore
 import boto3
 
-
-
 today = datetime.date.today()
 
 def lambda_handler(event, context):
